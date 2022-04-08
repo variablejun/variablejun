@@ -1,6 +1,8 @@
 ### Hi there 👋
 <h1>할줄아는게 으읍따~!</h1>
 <h1>달이 밝다</h1>
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <!--
 **variablejun/variablejun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
