@@ -1,7 +1,7 @@
 
-<h1>개발자가 되고싶은 꿈나무 입니다</h1>
+<h1>HI!</h1>
 
-<a href = "https://velog.io/@variablejun"><img src = "https://simpleicons.org/?q=velog"></a>
+<a href = "https://velog.io/@variablejun"><img src = "https://img.shields.io/badge/Velog-#D1B2FF.svg?&style=for-the-badge&logo=velog&logoColor=#B2CCFF"></a>
 <br><br>
   
 
