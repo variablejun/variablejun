@@ -1,7 +1,10 @@
 
 <h1>HI!</h1>
 
-<a href = "https://velog.io/@variablejun"><img src = "https://img.shields.io/badge/Velog-#D1B2FF.svg?&style=for-the-badge&logo=velog&logoColor=#B2CCFF"></a>
+<h2>벨로그</h2>
+<a href = "https://velog.io/@variablejun"><img src = "https://img.shields.io/badge/Velog-#D1B2FF.svg?&style=for-the-badge&logo=Velog&logoColor=#B2CCFF"></a>
+<br><br>
+  
 <br><br>
   
 
