@@ -1,6 +1,7 @@
-
+<html>
+<header></header>
+<body>
 <h1><strong>Ai Developer Jun's</strong></h1>
-
 <h2>GAN, 음성인식, 객체탐지 분야에 흥미가 있습니다!!</h2>
 <a href = "https://velog.io/@variablejun"><img src = "https://img.shields.io/badge/Velog-#D1B2FF.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <br><br>
@@ -9,7 +10,11 @@
   
 
   
-<h3>Tech Stack</h3>
+
+
+<br><br>
+
+<h3>Studying!!:fire:</h3>
 <div>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/>
@@ -17,10 +22,7 @@
 <img src="https://img.shields.io/badge/Keras-3766AB?style=flat-square&logo=Keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
-<br><br>
 
-<h3>Studying!!:fire:</h3>
-정보처리기사!
   
 <h3>Certificate:trophy:</h3>
 Google TensorFlow Developer Certificate<br>
@@ -35,8 +37,8 @@ MOS master<br>
 <h3>Experience</h3>
 비트캠프 서초본원 인공지능 혁신 과정 3기 수료<br>
 데이콘	- Samsung AI Challenge for Scientific Discovery(학원 내 3등 전체 67/220)<br>
-
-
+<body>
+</html>
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=variablejun&show_icons=true&theme=radical)
 
