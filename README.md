@@ -21,7 +21,7 @@
 <h3>Study!!:fire:</h3>
 정보처리기사!
   
-<h3>certificate</h3>
+<h3>Certificate:trophy:</h3>
 Google TensorFlow Developer Certificate
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=variablejun&show_icons=true&theme=radical)
