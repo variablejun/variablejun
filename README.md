@@ -3,13 +3,6 @@
 <body>
 <h1><strong>Ai Developer Jun's</strong></h1>
 <h2>GAN, 음성인식, 객체탐지 분야에 흥미가 있습니다!!</h2>
-<a href = "https://velog.io/@variablejun"><img src = "https://img.shields.io/badge/Velog-#D1B2FF.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
-<br><br>
-  
-<br><br>
-  
-
-  
 
 
 <br><br>
