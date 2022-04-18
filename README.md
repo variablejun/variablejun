@@ -23,6 +23,11 @@
   
 <h3>Certificate:trophy:</h3>
 Google TensorFlow Developer Certificate
+정보통신산업기사
+정보처리가능사
+컴퓨터활용능력 1급
+MOS master
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=variablejun&show_icons=true&theme=radical)
 
