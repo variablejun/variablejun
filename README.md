@@ -24,7 +24,6 @@
 Google TensorFlow Developer Certificate<br>
 정보통신산업기사<br>
 사무자동화산업기사<br>
-정보처리가능사<br>
 컴퓨터활용능력 1급<br>
 워드프로세서 1급<br>
 네트워크관리사 2급<br>
