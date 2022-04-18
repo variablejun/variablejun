@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-3766AB?style=flat-square&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-3766AB?style=flat-square&logo=Keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 <br><br>
 
@@ -33,7 +34,8 @@ MOS master<br>
 
 <h3>Experience</h3>
 비트캠프 서초본원 인공지능 혁신 과정 3기 수료<br>
-데이콘	- Samsung AI Challenge for Scientific Discovery(학원 내 3등 전체 67등)<br>
+데이콘	- Samsung AI Challenge for Scientific Discovery(학원 내 3등 전체 67/220)<br>
+
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=variablejun&show_icons=true&theme=radical)
