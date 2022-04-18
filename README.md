@@ -15,7 +15,9 @@
 <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-3766AB?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
+<br><br>
 
+<h3>Study!!:fire:</h3>
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=variablejun&show_icons=true&theme=radical)
 
