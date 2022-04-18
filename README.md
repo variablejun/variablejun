@@ -10,15 +10,16 @@
 
   
 <h3>Tech Stack</h3>
-
+<div>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-3766AB?style=flat-square&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-3766AB?style=flat-square&logo=Keras&logoColor=white"/>
+</div>
 <br><br>
 
 <h3>Study!!:fire:</h3>
-<h4>정보처리기사!<h4>
+정보처리기사!
   
 <h3>certificate</h3>
 Google TensorFlow Developer Certificate
