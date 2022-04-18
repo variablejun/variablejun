@@ -1,5 +1,5 @@
 
-<h1>HI!</h1>
+<h1><strong>Ai Developer Jun's</strong></h1>
 
 <h2>벨로그</h2>
 <a href = "https://velog.io/@variablejun"><img src = "https://img.shields.io/badge/Velog-#D1B2FF.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
