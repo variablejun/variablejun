@@ -19,7 +19,9 @@
 <img src="https://img.shields.io/badge/JSS-F7DF1E?style=flat-square&logo=JSS&logoColor=white"/>
 </div>
 
-  
+<h3>Try</h3>
+정보처리기사, programmers, swift
+ 
 <h3>Certificate:trophy:</h3>
 Google TensorFlow Developer Certificate<br>
 정보통신산업기사<br>
