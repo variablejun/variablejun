@@ -18,15 +18,22 @@
 </div>
 <br><br>
 
-<h3>Study!!:fire:</h3>
+<h3>Studying!!:fire:</h3>
 정보처리기사!
   
 <h3>Certificate:trophy:</h3>
-Google TensorFlow Developer Certificate
-정보통신산업기사
-정보처리가능사
-컴퓨터활용능력 1급
-MOS master
+Google TensorFlow Developer Certificate<br>
+정보통신산업기사<br>
+사무자동화산업기사<br>
+정보처리가능사<br>
+컴퓨터활용능력 1급<br>
+워드프로세서 1급<br>
+네트워크관리사 2급<br>
+MOS master<br>
+
+<h3>Experience</h3>
+비트캠프 서초본원 인공지능 혁신 과정 3기 수료<br>
+데이콘	- Samsung AI Challenge for Scientific Discovery(학원 내 3등 전체 67등)<br>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=variablejun&show_icons=true&theme=radical)
