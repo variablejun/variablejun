@@ -2,7 +2,7 @@
 <header></header>
 <body>
 <h1><strong>Ai Developer Jun's</strong></h1>
-<h2>GAN, 음성인식, 객체탐지 분야에 흥미가 있습니다!!</h2>
+<h2>GAN, Object Detection, DB 분야에 흥미가 있습니다!!</h2>
 
 
 <br><br>
@@ -10,9 +10,9 @@
 <h3>Studying!!:fire:</h3>
 <div>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-3766AB?style=flat-square&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-3766AB?style=flat-square&logo=Keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-#FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-#EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
