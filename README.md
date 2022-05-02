@@ -36,11 +36,11 @@ MOS master<br>
 데이콘	- Samsung AI Challenge for Scientific Discovery(학원 내 3등 전체 67/220)<br>
 <body>
 </html>
-<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=variablejun&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvariablejun&count_bg=%2368FDFF&title_bg=%23BF76F5&icon=&icon_color=%23E7E7E7&title=Hi%2C+Caravan&edge_flat=false)](https://hits.seeyoufarm.com)
--->
+
 <!--
 **variablejun/variablejun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
