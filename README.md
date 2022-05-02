@@ -33,7 +33,7 @@ MOS master<br>
 
 <h3>Experience</h3>
 비트캠프 서초본원 인공지능 혁신 과정 3기 수료<br>
-데이콘	- Samsung AI Challenge for Scientific Discovery(학원 내 3등 전체 67/220)<br>
+데이콘	- Samsung AI Challenge for Scientific Discovery(학원 내 3등 전체 67/220)<br><br><br><br><br>
 <body>
 </html>
 
