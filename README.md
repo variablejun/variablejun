@@ -2,7 +2,7 @@
 <header></header>
 <body>
 <h1><strong>Ai Developer Jun's</strong></h1>
-<h2>GAN, Object Detection, DB 분야에 흥미가 있습니다!!</h2>
+<h2>Live now, dream later</h2>
 
 
 <br><br>
